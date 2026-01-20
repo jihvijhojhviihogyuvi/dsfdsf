@@ -1,0 +1,5 @@
+{
+  "name": "ParodyPop AI fixed",
+  "description": "An AI-powered parody studio. Upload a song, suppress original vocals, generate hilarious parody lyrics, and synthesize new vocals to mix back into the track.",
+  "requestFramePermissions": []
+}
